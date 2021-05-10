@@ -37,3 +37,9 @@ Tables
 
 - List four
 ***
+
+```python
+name = "Sarthak"
+print(name)
+
+```
