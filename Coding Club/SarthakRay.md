@@ -63,4 +63,5 @@ Press ENTER to exit console.
   - HTML, CSS, Bootstrap
   - Basic UI/UX
 
-  <center><p> Apart from the course given by Coding Club IITG, I also completed few courses on Udemy based on Python, Web Development, Design and Game Development and right now am looking forward towards completing few of them in Coursera as well. I am also regularly doing the tasks given by IIT.ai.</p></center>
+  <center><p> Apart from the course given by Coding Club IITG, I also completed few courses on Udemy based on Python, Web Development, Design and Game Development and right now am looking forward towards completing few of them in Coursera as well. I am also regularly doing the tasks given by IIT.ai.
+  Apart from these I am also doing an internship with Shape.ai, where I am being taught Machine Learning and Data Science. </p></center>
