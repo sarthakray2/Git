@@ -1,0 +1,257 @@
+h1 {
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+h2{
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+h3{
+  margin: 0;
+}
+body{
+  margin: 0;
+  background: radial-gradient(at top left,#43cea2,#185a9d);
+}
+hr{
+  width: 20%;
+  border: dotted blue 6px;
+  border-bottom: none;
+}
+
+
+
+
+
+
+.div_1{
+
+}
+.div_2{
+
+}
+.div_4{
+padding-left: 10px;
+
+}
+.div_5{
+  background: radial-gradient(at top right,#43cea2,#185a9d);
+  padding: 10px;
+  border-radius: 5%;
+}
+
+
+
+
+
+
+
+
+
+.div_3_p1{
+  display: inline-block;
+  width: 31.5%;
+  border-radius: 5%;
+  background: radial-gradient(#edfbf2,#43cea2);
+  font-size: 1.5rem;
+  margin-left: 5px;
+  padding: 10px;
+}
+.div_3_p2{
+  display: inline-block;
+  width: 31.5%;
+  border-radius: 5%;
+  background: radial-gradient(#edfbf2,#43cea2);
+  font-size: 1.5rem;
+  padding: 10px;
+}
+.div_3_p3{
+  display: inline-block;
+  width: 31.5%;
+  border-radius: 5%;
+  background: radial-gradient(#edfbf2,#43cea2);
+  font-size: 1.5rem;
+  padding: 10px;
+}
+.div_4_head{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img_div4{
+  display: inline-block;
+  width: 23.5%;
+  background: radial-gradient(#f5fafb,#33dad7);
+  padding: 8px;
+  border-radius: 5%;
+}
+.div_4_p1{
+  font-size: 1.5rem;
+  padding-left: 10px;
+}
+.div_4_p2{
+  font-size: 1.5rem;
+  padding-left: 10px;
+}
+.div_4_p3{
+  font-size: 1.5rem;
+  padding-left: 10px;
+}
+.div_4_p4{
+  font-size: 1.5rem;
+  padding-left: 10px;
+}
+.form{
+
+  float: left;
+}
+.icons{
+  margin-left: 650px;
+
+}
+.text_1{
+  width: 15%;
+  margin-left: 200px;
+  padding: 2px;
+  background: radial-gradient(#185a9d,#43cea2);
+  display: inline-block;
+  height: 20px;
+  font-size: 14px;
+  border-radius: 20%;
+}
+.text_2{
+  width: 15%;
+  display: inline-block;
+  padding: 2px;
+  background: radial-gradient(#185a9d,#43cea2);
+  height: 20px;
+  font-size: 14px;
+  border-radius: 20%;
+}
+.text_3{
+  width: 15%;
+  display: inline-block;
+  padding: 2px;
+  background: radial-gradient(#185a9d,#43cea2);
+  height: 20px;
+  font-size: 14px;
+  border-radius: 20%;
+}
+
+.main_icon{
+  display: inline-block;
+  padding: 19px;
+  width: 50px;
+  float: left;
+  background-color: #43cea2;
+}
+
+
+
+
+
+
+
+
+
+
+.forest{
+  height: 400px;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 20%;
+}
+.img_4{
+  height: 170px;
+  width: 95%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5%;
+}
+.social{
+  height: 30px;
+  padding: 10px;
+  padding-top: 0;
+}
+
+
+
+
+
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+
+
+/* Add a black background color to the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #43cea2;
+  padding: 20px;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the "active" element to highlight the current page */
+.topnav a.active {
+  background-color: #2196F3;
+  color: white;
+}
+
+/* Style the search box inside the navigation bar */
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
